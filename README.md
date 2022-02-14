@@ -8,4 +8,4 @@ Demo repository to go through training
 * bullet3
 
 ### Gist
-This is a good example of [my code](<script src="https://gist.github.com/amarksingh7/cbb86d44d25f8de0aed34c07bbcc54fd.js"></script>)
+This is a good example of [my code](https://gist.github.com/amarksingh7/cbb86d44d25f8de0aed34c07bbcc54fd)
